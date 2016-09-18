@@ -9,3 +9,11 @@ Problems order: <br />
 91  Decode Ways<br />
 1   Two Sum<br />
 278 First Bad Version<br />
+91  Decode Ways<br />
+278 First Bad Version<br />
+17  Letter Combinations of a Phone Number<br />
+139 Woed Break<br />
+206 Reverse Linked List <br />
+200 Number of Islands <br />
+257 Binary Tree Paths <br />
+75  Sort Colors<br />
