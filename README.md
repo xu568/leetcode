@@ -17,3 +17,14 @@ Problems order: <br />
 200 Number of Islands <br />
 257 Binary Tree Paths <br />
 75  Sort Colors<br />
+125 Valid Palindrome<br />
+26  Remove Duplicates from Sorted Array<br />
+28  Implement strStr()<br />
+38  Count and Say<br />
+252 Meeting Rooms<br />
+157 Read N Characters Given Read4 <br />
+168 Excel Sheet Column Title<br />
+235 Lowest Common Ancestor of a Binary Search Tree<br />
+121 Best Time to Buy and Sell Stock <br />
+161 One Edit Distance <br />
+
