@@ -27,4 +27,6 @@ Problems order: <br />
 235 Lowest Common Ancestor of a Binary Search Tree<br />
 121 Best Time to Buy and Sell Stock <br />
 161 One Edit Distance <br />
-
+404 Sum of Left Leaves <br />
+102 Binary Tree Level Order Traversal <br />
+20  Valid Parentheses <br />
